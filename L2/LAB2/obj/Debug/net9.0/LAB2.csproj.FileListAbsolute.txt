@@ -1,0 +1,14 @@
+C:\Users\radug\RiderProjects\LAB2\LAB2\bin\Debug\net9.0\LAB2.exe
+C:\Users\radug\RiderProjects\LAB2\LAB2\bin\Debug\net9.0\LAB2.deps.json
+C:\Users\radug\RiderProjects\LAB2\LAB2\bin\Debug\net9.0\LAB2.runtimeconfig.json
+C:\Users\radug\RiderProjects\LAB2\LAB2\bin\Debug\net9.0\LAB2.dll
+C:\Users\radug\RiderProjects\LAB2\LAB2\bin\Debug\net9.0\LAB2.pdb
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.AssemblyInfoInputs.cache
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.AssemblyInfo.cs
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.dll
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\refint\LAB2.dll
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.pdb
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\LAB2.genruntimeconfig.cache
+C:\Users\radug\RiderProjects\LAB2\LAB2\obj\Debug\net9.0\ref\LAB2.dll

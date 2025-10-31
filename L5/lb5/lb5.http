@@ -1,0 +1,6 @@
+@lb5_HostAddress = http://localhost:5053
+
+GET {{lb5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
